@@ -1,0 +1,22 @@
+.tieude {
+    text-align: center;
+}
+.mon {
+     float: left;
+     margin: 10px;
+     padding: 10px;
+}
+.mua {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: red;
+    color: white;
+    float: right;
+}
+.a {
+    text-decoration: none;
+    color: aqua;
+    margin-right: 10px;
+    
+}
